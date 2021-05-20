@@ -1508,4 +1508,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/DownUp.unity
   - Assets/Scenes/Move.unity
   - Assets/Scenes/GameOver.unity
-  playerPath: D:/GameDev/_Projects/_Unity/ProjectBoost/Builds/ProjectBoost.exe
+  playerPath: D:/GameDev/_Projects/_Unity/UFO_Traversal/ProjectBoost/Builds/ProjectBoost.exe
