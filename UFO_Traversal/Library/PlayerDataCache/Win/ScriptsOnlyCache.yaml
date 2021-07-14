@@ -6,7 +6,6 @@ ScriptsOnlyBuild:
     - DeletePrefs
     - LevelSelect
     - Movement
-    - MusicPlayer
     - ObjectPool
     - Oscillator
     - QuitApplication
@@ -84,8 +83,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12728}
     - Class: 114
       Script: {instanceID: 12996}
-    - Class: 114
-      Script: {instanceID: 13074}
     - Class: 114
       Script: {instanceID: 13116}
     - Class: 114
@@ -234,8 +231,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12728}
     - Class: 114
       Script: {instanceID: 12996}
-    - Class: 114
-      Script: {instanceID: 13074}
     - Class: 114
       Script: {instanceID: 13116}
     - Class: 114
@@ -448,8 +443,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12996}
     - Class: 114
-      Script: {instanceID: 13074}
-    - Class: 114
       Script: {instanceID: 13116}
     - Class: 114
       Script: {instanceID: 13118}
@@ -518,8 +511,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12728}
     - Class: 114
       Script: {instanceID: 12996}
-    - Class: 114
-      Script: {instanceID: 13074}
     - Class: 114
       Script: {instanceID: 13116}
     - Class: 114
@@ -591,8 +582,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12728}
     - Class: 114
       Script: {instanceID: 12996}
-    - Class: 114
-      Script: {instanceID: 13074}
     - Class: 114
       Script: {instanceID: 13116}
     - Class: 114
@@ -1508,4 +1497,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/DownUp.unity
   - Assets/Scenes/Move.unity
   - Assets/Scenes/GameOver.unity
-  playerPath: D:/GameDev/_Projects/_Unity/UFO_Traversal/ProjectBoost/Builds/ProjectBoost.exe
+  playerPath: D:/GameDev/_Projects/_Unity/UFO_Traversal/UFO_Traversal/Builds/ProjectBoost.exe
